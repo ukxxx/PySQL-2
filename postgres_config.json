@@ -1,0 +1,7 @@
+{
+    "login": "YOUR_POSTGRES_LOGIN",
+    "password": "YOUR_POSTGRESS_PASSWORD",
+    "db_name": "POSTGRES_DB_NAME",
+    "host": "POSTGRES_DB_IP", 
+    "port": "POSTGRES_DB_PORT"
+}
